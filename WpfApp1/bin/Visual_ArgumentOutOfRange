@@ -1,0 +1,1 @@
+﻿Specified index is out of range or child at index is null. Do not call this method if VisualChildrenCount returns zero, indicating that the Visual has no children.

@@ -1,0 +1,1 @@
+﻿PackagePart subclass must implement GetContentTypeCore method if passing a null value for the content type when PackagePart object is constructed.

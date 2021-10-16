@@ -1,0 +1,1 @@
+﻿Cannot get stream with FileMode.Create, FileMode.CreateNew, FileMode.Truncate, FileMode.Append when access is FileAccess.Read.

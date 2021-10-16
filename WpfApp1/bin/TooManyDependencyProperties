@@ -1,0 +1,1 @@
+﻿DependencyProperty limit has been exceeded upon registration of '{0}'. Dependency properties are normally static class members registered with static field initializers or static constructors. In this case, there may be dependency properties accidentally getting initialized in instance constructors and thus causing the maximum limit to be exceeded.

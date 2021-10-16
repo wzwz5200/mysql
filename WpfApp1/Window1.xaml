@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp1.Window1"
+        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window1" Height="615.802" Width="474" MinWidth="18" MinHeight="15" Visibility="Visible" Opacity="0.995" Padding="0" WindowStartupLocation="Manual" FlowDirection="RightToLeft" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" HorizontalContentAlignment="Center" >
+
+    <Border Width="463" CornerRadius="100">
+        <Button Content="注入" HorizontalAlignment="Left" Height="70" Margin="114,358,0,0" VerticalAlignment="Top" Width="242" Click="Button_Click_1"/>
+    </Border>
+
+
+</Window>

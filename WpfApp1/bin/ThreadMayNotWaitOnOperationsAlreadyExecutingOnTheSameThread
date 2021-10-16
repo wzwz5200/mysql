@@ -1,0 +1,1 @@
+﻿A thread cannot wait on operations already running on the same thread.
